@@ -1,4 +1,4 @@
-# CabinetMedical
+# Exercitii Laborator
 
 Laborator 3 -> Exercitiu
 
