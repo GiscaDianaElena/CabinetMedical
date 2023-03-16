@@ -15,23 +15,3 @@ Folositi cat mai mult poo, sa aveti un singur fisier pentru o singura clasa, sa 
 1) Proiectati clasele.
 2) Faceti o lista in Main cu cateva alimente. (Folositi List.of(...) pentru a face o lista, sau List<Aliment> alimente = new ArrayList<>(); si folositi alimente.add(obiect)) -> pentru a avea acces la metoda alimente.stream() )
 3) Sortati folosind stream() dupa numarul de calorii.
-
-Laborator 4 -> Exercitiu
-
-Problema:
- 
-Firma imobiliare:
- 
-2 camere, 3 camere, duplex, open space.
- 
-Ap: nr apartamentului, pretul, dimensiunea, data cumpararii/inchirierii.
- 
-Utilitati: 1 baie/doua, cate dormitoare, balcon/nu, in functie de camera: canaprea, masa, aragaz , etc.
- 
-1) Scris cod 
-2) Sortati dupa numarul de camere toate apartamentele.
-3) Afisati toate utilitatile fiecarui apartament.
-4) Clasament nr vanzari
-5) Afisati cate apartamente sunt in functie de nr de camere.
- 
-Puteti sa faceti problema si mai laborios, sa mai faceti cerinte, cu cat folositi chestiile pe care noi le-am facut la laborator, cu atat mai bine. O sa incerc sa rezolv si eu problema si sa va arat un exemplu cum ar arata un cod mai complet si o sa incerc sa folosesc tot ce am facut la laborator
